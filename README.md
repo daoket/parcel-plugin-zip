@@ -16,7 +16,8 @@ npm run build
 
 ## output
 
-Building after a ` [projectName] zip ` compressed files.
+Building after a ` [projectName].zip ` compressed files.
+projectName is package.json config name
 
 License
 ========
