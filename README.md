@@ -6,6 +6,7 @@ Purpose: to compress the constructed folder.
 ```
 npm install parcel-plugin-zip -D
 ```
+No configuration is required.
 
 ## build
 
@@ -15,7 +16,7 @@ npm run build
 
 ## output
 
-Building after a ` [projectName] zip ` compressed files的压缩文件
+Building after a ` [projectName] zip ` compressed files.
 
 License
 ========
