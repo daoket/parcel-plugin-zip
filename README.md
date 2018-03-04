@@ -17,7 +17,7 @@ npm run build
 ## output
 
 Building after a ` [projectName].zip ` compressed files.
-projectName is package.json config name
+projectName is `parcel build index.html -d projectName`
 
 License
 ========
