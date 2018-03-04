@@ -1,21 +1,21 @@
 # parcel-plugin-zip
-目的：压缩构建后的文件夹
+Purpose: to compress the constructed folder.
 
-## 安装
+## install
 
 ```
 npm install parcel-plugin-zip -D
 ```
 
-## 构建
+## build
 
 ```
 npm run build
 ```
 
-## 输出
+## output
 
-构建后得到一个`[projectName].zip`的压缩文件
+Building after a ` [projectName] zip ` compressed files的压缩文件
 
 License
 ========
