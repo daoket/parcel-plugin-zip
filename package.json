@@ -5,10 +5,6 @@
   "license": "MIT",
   "repository": "https://github.com/daoket/parcel-plugin-zip",
   "author": "wtniu <wtniu@iflytek.com>",
-  "keywords": [
-    "parcel",
-    "zip"
-  ],
   "main": "index.js",
   "dependencies": {
     "archiver": "^2.1.1"
