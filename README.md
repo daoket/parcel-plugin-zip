@@ -15,7 +15,7 @@ npm run build
 
 ## 输出
 
-Output a `[projectName].zip` file.
+构建后得到一个`[projectName].zip`的压缩文件
 
 License
 ========
